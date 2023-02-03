@@ -67,8 +67,8 @@ nav
 .aru 
 {
 	 margin-left: 22%;
-     position:fixed;
-     bottom: 570px;
+     position:absolute;
+     bottom: 574px;
      
 }
 .aru h1
